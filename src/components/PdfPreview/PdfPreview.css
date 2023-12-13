@@ -1,0 +1,12 @@
+.pdf-preview-container {
+    margin-top: 20px;
+}
+
+.pdf-preview {
+    border: 1px solid #ccc;
+}
+
+.pagination {
+    margin-top: 10px;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "esModuleInterop": true,
+        "types": ["react", "react-dom", "node"],
+        "target": "ES2015",
+        "module": "CommonJS"
+    },
+}
